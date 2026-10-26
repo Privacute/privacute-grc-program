@@ -9,7 +9,7 @@ business providing HIPAA privacy governance to small physician-run practices.
 > *documentation*, not open technical weaknesses.
 
 For the same pipeline applied to a fictional clinical scenario, see the
-Example Family Clinic assessment: `[ADD GITHUB URL ONCE THE REPO EXISTS]`
+Example Family Clinic assessment: [example-clinic-grc-assessment](https://github.com/Privacute/example-clinic-grc-assessment)
 
 ## Why self-assess
 
@@ -42,7 +42,7 @@ governs the device-encryption finding since remediated.
 
 An ID that is *not* in the catalog halts the pipeline instead of reaching a report. That
 behaviour is shown in the
-[clinic assessment repo](https://github.com/braxton-privacute/example-clinic-grc-assessment#see-it-run),
+[clinic assessment repo](https://github.com/Privacute/example-clinic-grc-assessment#see-it-run),
 where the validator rejects `PHY-03`.
 
 ## What's inside
